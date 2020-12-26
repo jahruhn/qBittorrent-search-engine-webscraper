@@ -1,4 +1,4 @@
-# Qbittorrent-search-engine-webscraper
+# qBittorrent-search-engine-webscraper
 A webscraper for Qbittorrent search engines
 
 This saves a lot of clicking trying to download all the search-engines yourself.
